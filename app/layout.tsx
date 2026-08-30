@@ -8,7 +8,7 @@ const sans = DM_Sans({ subsets: ["latin"], variable: "--font-sans" });
 const serif = Instrument_Serif({ subsets: ["latin"], weight: "400", variable: "--font-serif" });
 
 export const metadata: Metadata = {
-  title: { default: "Lovelace GTM Studio", template: "%s | Lovelace GTM Studio" },
+  title: { default: "LL GTM Studio", template: "%s | LL GTM Studio" },
   description: "Practical, hands-on marketing improvements for small businesses, starting in Southern Oregon.",
 };
 

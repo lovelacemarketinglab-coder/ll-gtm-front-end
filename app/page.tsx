@@ -8,7 +8,7 @@ export default function Home() {
         <div className="hero-copy">
           <p className="eyebrow">Independent marketing studio · Southern Oregon</p>
           <h1>Make the basics<br /><em>work better.</em></h1>
-          <p className="lede">Lovelace helps small businesses improve how they show up online—through focused, one-time projects with clear scope and hands-on review.</p>
+          <p className="lede">LL GTM helps small businesses improve how they show up online—through focused, one-time projects with clear scope and hands-on review.</p>
           <div className="actions">
             <Link className="button" href="/services">View the current service <ArrowIcon /></Link>
             <Link className="text-link" href="/contact">Start a conversation <ArrowIcon /></Link>
@@ -28,7 +28,7 @@ export default function Home() {
           <p className="eyebrow">A practical starting point</p>
           <div>
             <h2>Small improvements can remove real customer friction.</h2>
-            <p>Outdated hours, missing services, unclear descriptions, and inconsistent links make it harder for people to understand and trust a business. The first Lovelace service focuses on fixing that foundation.</p>
+            <p>Outdated hours, missing services, unclear descriptions, and inconsistent links make it harder for people to understand and trust a business. The first LL GTM service focuses on fixing that foundation.</p>
           </div>
         </div>
       </section>

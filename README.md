@@ -1,6 +1,6 @@
-# Lovelace GTM Studio — public website
+# LL GTM Studio — public website
 
-Small, static-first public website for Lovelace GTM Studio. This repository is intentionally separate from private operating materials.
+Small, static-first public website for LL GTM Studio. This repository is intentionally separate from private operating materials.
 
 ## Local development
 
