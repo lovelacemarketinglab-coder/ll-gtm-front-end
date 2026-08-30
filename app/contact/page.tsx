@@ -1,4 +1,5 @@
 import { PageIntro } from "@/components/page-intro";
+import { ContactForm } from "@/components/contact-form";
 
 export default function ContactPage() {
   return (
@@ -7,15 +8,7 @@ export default function ContactPage() {
         <p>If your Google Business Profile is outdated, incomplete, or inconsistent, share a few details below.</p>
       </PageIntro>
       <section className="shell contact-grid">
-        <form className="contact-form" aria-describedby="form-note">
-          <div className="field-row"><label>First name<input name="firstName" autoComplete="given-name" /></label><label>Last name<input name="lastName" autoComplete="family-name" /></label></div>
-          <label>Email<input type="email" name="email" autoComplete="email" /></label>
-          <label>Business name<input name="businessName" autoComplete="organization" /></label>
-          <label>Business location<input name="location" placeholder="City, Oregon" autoComplete="address-level2" /></label>
-          <label>What would you like help with?<textarea name="message" rows={5} /></label>
-          <button className="button disabled-button" type="button" aria-disabled="true">Inquiry form coming soon</button>
-          <p className="form-note" id="form-note">This preview form does not send or store information yet. Contact delivery will be connected before launch.</p>
-        </form>
+        <ContactForm />
         <aside className="contact-aside">
           <p className="eyebrow">Good to know</p>
           <h2>A short, no-pressure first conversation.</h2>

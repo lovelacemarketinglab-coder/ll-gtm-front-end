@@ -9,7 +9,7 @@ Give a Southern Oregon small-business owner enough clarity and confidence to res
 - `/` — positioning, current offer, practical working style, contact path
 - `/services` — scope, fit, exclusions, process, and turnaround
 - `/about` — grounded studio positioning without inflated credentials
-- `/contact` — intentionally non-operational inquiry form pending an approved email/form connection
+- `/contact` — inquiry form delivered server-side through Resend; no inquiry database
 
 ## Component structure
 
@@ -35,7 +35,7 @@ Give a Southern Oregon small-business owner enough clarity and confidence to res
 
 ## Deferred decisions
 
-- Real inquiry destination and privacy language
+- Verified custom sending domain
 - Whether and how the pilot price appears publicly
 - Final logo/wordmark asset
-- Domain, deployment, analytics, and any form backend
+- Domain, production deployment, and analytics

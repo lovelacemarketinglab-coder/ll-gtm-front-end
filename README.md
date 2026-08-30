@@ -19,6 +19,10 @@ npm run typecheck
 npm run build
 ```
 
+## Contact delivery
+
+The inquiry form sends server-side through Resend. Copy `.env.example` and configure `RESEND_API_KEY` and `CONTACT_TO_EMAIL`; optionally set `CONTACT_FROM_EMAIL` after verifying a sending domain.
+
 ## Public-content boundary
 
 Only deliberately approved public copy belongs here. Do not copy prospect lists, customer research, pricing analysis, experiment notes, client material, internal scorecards, opportunity pipelines, or unpublished strategy from the private operating repository.
